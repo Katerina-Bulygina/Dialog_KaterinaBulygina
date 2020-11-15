@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dialog_KaterinaBulygina</string>
+    <!--  Button name  -->
+    <string name="button_title">Выбрать фон</string>
+    <!--  Dialog title  -->
+    <string name="dialog_title">Хотите поменять фон?</string>
+
+    <!--  Alert text  -->
+    <string name="alert_red">Красный</string>
+    <string name="alert_yellow">Желтый</string>
+    <string name="alert_green">Зелёный</string>
+
+</resources>
